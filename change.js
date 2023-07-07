@@ -1,2 +1,2 @@
 console.log('change');
-console.log('you have to be consistent enough.')
+console.log('Practice! , Practice! , Practice!')

@@ -1,2 +1,2 @@
 console.log('Welcome to git-tutorial');
-console.log('Learning is fun.');
+console.log('Do your job with sincerity.');

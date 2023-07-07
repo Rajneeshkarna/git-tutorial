@@ -1,2 +1,2 @@
 console.log('Hello world!');
-console.log('This is another statement.');
+console.log('Action speaks louder than words.');
